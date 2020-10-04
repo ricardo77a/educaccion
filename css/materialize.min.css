@@ -9129,6 +9129,7 @@ nav.n.fj {
 nav.n.bi a,
 nav.n.ao a {
     color: #fff;
+    font-weight: bold !important;
 }
 nav.n.bi .brand-logo i,
 nav.n.ao .brand-logo i {
