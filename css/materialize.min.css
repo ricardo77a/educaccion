@@ -2467,6 +2467,7 @@ nav ul a span.dy {
 .v {
     padding-top: 1rem;
     padding-bottom: 1rem;
+    background-color: #f7f7f7 !important;
 }
 .v.no-pad {
     padding: 0;
@@ -9114,7 +9115,7 @@ nav.n {
     z-index: 10;
     position: fixed;
     box-shadow: none;
-    background-color: transparent;
+    background-color: black;
     transition: box-shadow 0.3s, background-color 0.3s;
 }
 nav.n.cv {
@@ -9127,11 +9128,11 @@ nav.n.fj {
 }
 nav.n.bi a,
 nav.n.ao a {
-    color: #444;
+    color: #fff;
 }
 nav.n.bi .brand-logo i,
 nav.n.ao .brand-logo i {
-    color: #444;
+    color: #fff;
 }
 nav.n.bi ul.dropdown-content li > a::before,
 nav.n.ao ul.dropdown-content li > a::before,
