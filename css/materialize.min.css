@@ -9115,7 +9115,7 @@ nav.n {
     z-index: 10;
     position: fixed;
     box-shadow: none;
-    background-color: black;
+    background-color: transparent;
     transition: box-shadow 0.3s, background-color 0.3s;
 }
 nav.n.cv {
@@ -9199,6 +9199,7 @@ nav.n ul a:hover {
 }
 .ai {
     color: #1de9c3;
+    max-height: 250px;
 }
 .ai .header-wrapper {
     top: 0;
@@ -9705,4 +9706,8 @@ body.light-theme .ai .dx {
     .ai .header-wrapper h1 {
         font-size: 4rem;
     }
+}
+
+.material-icons{
+    color: white !important;
 }
