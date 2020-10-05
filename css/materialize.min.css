@@ -3357,7 +3357,8 @@ nav ul a.btn-floating > .material-icons {
     line-height: inherit;
 }
 nav ul a:hover {
-    background-color: rgba(0, 0, 0, 0.1);
+    /*background-color: rgba(0, 0, 0, 0.1);*/
+    background-color: #161616!important;
 }
 nav ul.be {
     float: left;
