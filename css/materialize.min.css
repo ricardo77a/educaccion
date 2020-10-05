@@ -2467,7 +2467,7 @@ nav ul a span.dy {
 .v {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #f7f7f7 !important;
+    background-color: #D9D9D9 !important;
 }
 .v.no-pad {
     padding: 0;
@@ -9720,3 +9720,11 @@ body.light-theme .ai .dx {
 .mb-5 {
   margin-bottom: 3rem !important;
 }
+.collection .collection-item{
+    background-color:#D9D9D9 !important;
+}
+
+.collection.with-header .collection-header {
+    background-color: #D9D9D9 !important;
+}
+
