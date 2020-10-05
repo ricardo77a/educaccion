@@ -2056,7 +2056,7 @@ ul.staggered-list li {
     }
 }
 .page-footer {
-    padding-top: 50px;
+    padding-top: 10px;
     background-color: black;
 }
 .page-footer .footer-copyright {
@@ -9575,11 +9575,7 @@ input[type="search"] + label,
 textarea.materialize-textarea + label {
     color: rgba(255, 255, 255, 0.5);
 }
-.page-footer {
-    color: #444;
-    padding: 10px 0;
-    margin: 0;
-}
+
 .page-footer .c {
     margin: 0;
 }
