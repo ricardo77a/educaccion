@@ -3357,8 +3357,7 @@ nav ul a.btn-floating > .material-icons {
     line-height: inherit;
 }
 nav ul a:hover {
-    /*background-color: rgba(0, 0, 0, 0.1);*/
-    background-color: #161616!important;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 nav ul.be {
     float: left;
@@ -9149,7 +9148,7 @@ nav.n.ao {
 }
 nav.n.ao.bi,
 nav.n.ao {
-    background-color: #10a98d;
+    background-color: #262626;
 }
 nav.n.ao :not(.dropdown-content) > li > a {
     color: #fff;
