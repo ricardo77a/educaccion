@@ -9758,3 +9758,14 @@ nav, a{
     text-align: justify;
     text-justify: inter-word;
 }
+
+
+nav{
+    height: 30px !important;
+    line-height: 30px !important;
+}
+
+.ag{
+    height: 30px !important;
+    line-height: 30px !important;
+}
