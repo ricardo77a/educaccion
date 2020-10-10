@@ -9200,7 +9200,7 @@ nav.n ul a:hover {
 }
 .ai {
     color: #1de9c3;
-    max-height: 250px;
+    max-height: 330px;
 }
 .ai .header-wrapper {
     top: 0;
@@ -9726,4 +9726,18 @@ body.light-theme .ai .dx {
 
 p{
     font-size: 16px !important;
+}
+
+
+/* hacer cambio para celular @media*/
+.tierra{
+    margin-top: -500px;
+}
+
+.logo-catedra{
+    /*max-width: 70% !important;*/
+}
+
+nav, a{
+    font-size: 17px !important;
 }
