@@ -9741,3 +9741,15 @@ p{
 nav, a{
     font-size: 17px !important;
 }
+
+@media only screen and (max-width: 992px) {
+    .tierra{
+        margin-top: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .tierra{
+        margin-top: 0 !important;
+    }
+}
