@@ -9753,3 +9753,8 @@ nav, a{
         margin-top: 0 !important;
     }
 }
+
+.justify-text{
+    text-align: justify;
+    text-justify: inter-word;
+}
